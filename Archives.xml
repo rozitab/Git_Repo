@@ -1,1 +1,5 @@
-<ROOT/>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1513082509364" Description="" Name="UsingMacroTest" PackageName="UsingMacroTest.spk" UserID="sweroz@EUROPE" Version="dc7cde6">
+<ContainObj>SBIP://METASERVER/Data Integration/Testing/UsingMacro(Job)</ContainObj>
+</ArchInfo>
+</ROOT>
