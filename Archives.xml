@@ -5,4 +5,7 @@
 <ArchInfo Date="1513242924832" Description="" Name="Test" PackageName="Test.spk" UserID="sweroz@EUROPE" Version="f77488e">
 <ContainObj>SBIP://METASERVER/Data Integration/Testing/UsingMacro(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1513258765461" Description="Adding Tableregister" Name="test2" PackageName="test2.spk" UserID="sweroz@EUROPE" Version="395f4bc">
+<ContainObj>SBIP://METASERVER/Data Integration/Testing/UsingMacro(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
