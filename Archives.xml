@@ -2,4 +2,7 @@
 <ArchInfo Date="1513082509364" Description="" Name="UsingMacroTest" PackageName="UsingMacroTest.spk" UserID="sweroz@EUROPE" Version="dc7cde6">
 <ContainObj>SBIP://METASERVER/Data Integration/Testing/UsingMacro(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1513242924832" Description="" Name="Test" PackageName="Test.spk" UserID="sweroz@EUROPE" Version="f77488e">
+<ContainObj>SBIP://METASERVER/Data Integration/Testing/UsingMacro(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
