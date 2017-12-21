@@ -11,4 +11,7 @@
 <ArchInfo Date="1513847371174" Description="" Name="Macro_addNotes" PackageName="Macro_addNotes.spk" UserID="sweroz@EUROPE" Version="7337f61">
 <ContainObj>SBIP://METASERVER/Data Integration/Testing/Job/Macro(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1513847459102" Description="" Name="Macro_more" PackageName="Macro_more.spk" UserID="sweroz@EUROPE" Version="f66a7e1">
+<ContainObj>SBIP://METASERVER/Data Integration/Testing/Job/Macro(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
